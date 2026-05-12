@@ -1,6 +1,6 @@
-# Scraper_System
+# Scraper_App_System
 
-Scraper_System is a scalable web scraping and data processing platform built with Node.js. It consumes scraping jobs from AWS SQS queues, fetches webpage content, extracts structured company and review data using custom scraper modules, and stores processed results into MongoDB collections.
+Scraper_App_System is a scalable web scraping and data processing platform built with Node.js. It consumes scraping jobs from AWS SQS queues, fetches webpage content, extracts structured company and review data using custom scraper modules, and stores processed results into MongoDB collections.
 
 The system supports company intelligence extraction, review monitoring, SOS business searches, and multi-source data collection with automated retries, logging, and session management.
 
