@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@browserbasehq/stagehand": "^2.3.0",
+    "@google/generative-ai": "^0.24.1",
+    "aws-sdk": "^2.1692.0",
+    "axios": "^1.12.2",
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "cheerio": "^1.0.0",
+    "decompress-response": "^9.0.0",
+    "dotenv": "^16.5.0",
+    "got": "^11.8.6",
+    "jsdom": "^27.0.0",
+    "mongodb": "^4.17.2",
+    "node-fetch": "^3.3.2",
+    "p-map": "^7.0.3",
+    "p-time": "^4.0.0",
+    "package.json": "^2.0.1",
+    "puppeteer": "^24.22.3",
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0",
+    "zod": "^3.25.76"
+  }
+}
